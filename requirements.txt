@@ -1,0 +1,7 @@
+pypsa>=0.26
+linopy
+highspy
+numpy
+pandas
+scipy
+pyarrow
