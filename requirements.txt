@@ -1,7 +1,7 @@
-pypsa>=0.26
+pypsa==0.26
 linopy
-highspy
+highspy>=1.5
 numpy
-pandas
+pandas>=2.0
 scipy
 pyarrow
